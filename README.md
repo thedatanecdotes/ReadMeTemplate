@@ -1,4 +1,4 @@
 <p align="center">
-        <h1 align="center">The Data Anecdotes </h1>
+        <img src="header.png" width="50%/>
         <br/>
  </p>
