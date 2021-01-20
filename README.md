@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://github.com/thedatanecdotes/ReadMeTemplate/header.png" width="60%"/>
+        <img src="https://github.com/thedatanecdotes/ReadMeTemplate/blob/main/header.png" width="60%"/>
         <br/>
         <h2 align="center"> {Topic Name} </h2>
         <br/>
